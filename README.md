@@ -1,3 +1,3 @@
 # DockerAPI 
-## Công nghệ sử dụng: .NETCore 2.2
+## Công nghệ sử dụng: .NET Core 2.2
 
